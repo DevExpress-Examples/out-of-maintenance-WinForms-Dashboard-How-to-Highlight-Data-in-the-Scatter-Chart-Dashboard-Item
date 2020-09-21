@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Form1.cs](./CS/ChartFormatRulesSample/Form1.cs) 
-* [ScatterChartConstantLineUserValueModule.cs](./CS/ScatterChartConstantLineUserValueModule.cs)
+* [ScatterChartConstantLineUserValueModule.cs](./CS/ChartFormatRulesSample/ScatterChartConstantLineUserValueModule.cs)
 
 # WinForms Dashboard - How to Highlight Data in the Scatter Chart Dashboard Item
 
