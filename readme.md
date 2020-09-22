@@ -8,7 +8,7 @@
 
 The following example illustrates how to to use conditional formatting and the Constant Line custom property to highlight data in a Scatter Chart.  
 
-The Expression format rule colors the scatter chart's product categories with the biggest discount green and a Constant line separates the sector with the biggest discount:
+The expression format rule colors the biggest discount in the scatter chart's product categories green and a Constant line is drawn to separate the sector with the biggest discount:
 
 ![](/images/scatter-chart-with-applied-format-rule.png)
 
