@@ -4,11 +4,11 @@
 * [Form1.cs](./CS/ChartFormatRulesSample/Form1.cs) 
 * [ScatterChartConstantLineUserValueModule.cs](./CS/ChartFormatRulesSample/ScatterChartConstantLineUserValueModule.cs)
 
-# WinForms Dashboard - How to Highlight Data in the Scatter Chart Dashboard Item
+# WinForms Dashboard - How to Highlight Data in a Scatter Chart Dashboard Item
 
-The following example illustrates how to to highlight data in the Scatter Chart with conditional formatting and the Constant Line custom property. 
+The following example illustrates how to to use conditional formatting and the Constant Line custom property to highlight data in a Scatter Chart.  
 
-Expression format rule colors scatter chart's product categories with the biggest discount green and Constant line separates the sector with the biggest discount:
+The Expression format rule colors the scatter chart's product categories with the biggest discount green and a Constant line separates the sector with the biggest discount:
 
 ![](/images/scatter-chart-with-applied-format-rule.png)
 
