@@ -1,8 +1,8 @@
 
 *Files to look at*:
 
-* [Form1.cs](./CS/ChartFormatRulesSample/Form1.cs)/(VB: [Form1.vb](./VB/ChartFormatRulesSample/Form1.vb))
-* [ScatterChartConstantLineUserValueModule.cs](./CS/ChartFormatRulesSample/ScatterChartConstantLineUserValueModule.cs)/(VB: [ScatterChartConstantLineUserValueModule.vb](./VB/ChartFormatRulesSample/ScatterChartConstantLineUserValueModule.vb))
+* [Form1.cs](./CS/ChartFormatRulesSample/Form1.cs)(VB: [Form1.vb](./VB/ChartFormatRulesSample/Form1.vb))
+* [ScatterChartConstantLineUserValueModule.cs](./CS/ChartFormatRulesSample/ScatterChartConstantLineUserValueModule.cs)(VB: [ScatterChartConstantLineUserValueModule.vb](./VB/ChartFormatRulesSample/ScatterChartConstantLineUserValueModule.vb))
 
 # WinForms Dashboard - How to Highlight Data in a Scatter Chart Dashboard Item
 
