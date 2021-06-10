@@ -15,7 +15,7 @@ The expression format rule colors the biggest discount in the scatter chart's pr
 ## Documentation
 * [Custom Properties](https://docs.devexpress.com/Dashboard/401595/winforms-designer/custom-properties)
 * [Expression](https://docs.devexpress.com/Dashboard/114409/common-features/appearance-customization/conditional-formatting/expression?p=netframework#create-a-format-rule-in-code)
-* [Conditional Formatting]() 
+* [Conditional Formatting](https://docs.devexpress.com/Dashboard/402113) 
 
 ## More Examples
 * [How to Apply Conditional Formatting to the Card Dashboard Item](https://github.com/DevExpress-Examples/how-to-apply-conditional-formatting-to-the-card-dashboard-item)
